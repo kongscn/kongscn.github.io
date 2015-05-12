@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/kongscn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kongscn.github.io
+  * I am kongscn (https://keybase.io/kongscn) on keybase.
+  * I have a public key with fingerprint 3332 50B2 D1BD 6231 567D  EA01 8B06 B8AE F9A5 145E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "333250b2d1bd6231567dea018b06b8aef9a5145e",
+            "host": "keybase.io",
+            "key_id": "8b06b8aef9a5145e",
+            "kid": "01013ee1d34bea5ef0faba46221f97a8f38ac07659dbde60930c0452f75d704ff7b20a",
+            "uid": "ccd3fdf990b96337404b753b974f8d00",
+            "username": "kongscn"
+        },
+        "service": {
+            "hostname": "kongscn.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429434963,
+    "expire_in": 157680000,
+    "prev": "1dc6dff3fa68090f644fa42fec3e9d1767907134b7881f6f712859c6714f208b",
+    "seqno": 21,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMM3AnicbZJ/TFVlGMcvF2HIZHJNwLEoOOF0Snje8/OeG8kdOCcxsB+CUMzr+fG+
+l5N57uXec/kRo4GxKFAyGinSCDdhUAzLyEQgQZxFECRM5AYIie2GbOSKMshY51D9
+0db7z7v3+3yfz/s8z55rIf6GYL+qwEvty02bD/kN9u31GDJI1wvFmOCQijBLMXYE
+rl1IVuzQ5XTJiopZMJIkCRoXCAkIEkOQgGZYCfI4MAs4I5h5iDieBhQNsTgs1+HW
+MzSMwLthvOzQNO1hkyVN/R//kbUADnBAQggkkhIgT0OEI17gKYYgAOJY3oxIMy/i
+LENzkiBBBudIXMQpmkAsLbE4hRArEDiv4TxrOFGUSCQhjsMFjiFJlsIpgaVJgWMp
+ZJZwXDe6oUvhj0K9Vodid4sKVhKHaWK+LEJ9Anoj/zXE22U11yP83ZPT5VAdouMV
+LZyrqk63RU9Xi5y6vwAKtn9INkFWJG2WWkY+dLllh4JZgOYUVVlHA4rgKJLSiozD
+YKFTdkGbrDtoljHj2tH/gfkaEkgiIyFEIl4LcDhiKArxFIGgSEJOAizDcjgLtOmx
+ZjNADGIBYaY5kWEBhQjcLGB6b3mKA7MQQKuTt2tMt2xXeNXjgljJ1b6cdQa/YENg
+gFFfB0Pw+tB/lyRqIdRwAus530uW3/tZ/WVbUlzKO4Nwxzp3alJMqCs6+/xP4LnG
++heTXo2dzJ/uHrYcFnuXGNPU8tuRyZ2lRa89nD++8tAyNc+fOfCnMeZEtXEp6Av0
+za0SX9cwM9EOYza8m2j11vSnfV9dsDvx9M2FtkeWkvlNXnOft1FNR1u8eSYQvHy1
+cKY8cSZkYCTFsPLx0YknDtZWjHsqZg+ekw91pVu9DeuvoKWgDwaehm2H0ztSRi/8
+vl8qPLUzc/JkeORFyfn8vuaAuZbAW49/Ol6XXFyV+eawdWvLt7XNhqC5zInrxbbO
+6f3N4aNv2VIr69vDSriVPaNZI2H7Mo2lLz1qal7deDLtck4fxnfU0Zkctv1BfEL8
+SOzxspcDkq8PtA2Vl1UPc75j1HDMl3fz6t0/mmYX/G9EnDk2dM03358w90xGxs2L
+0wsBY8bdDbHRT5Y9C+7lLp29XWHfe7/5M+79rY4aLv/1ytIwa7VvU0Tgd2O13Y07
+Nv4QfWFBKTvdc2rX3Z1DzjvWEnU1Jqr11z82z2STc183zrae8496wxQe2nvDe79g
+2qM2ZQFQ7n+5pT/itxChL6GdbN/TlHX7o+5tT/nqv9rQEOl98NhKKfeeqbWtUjm7
+vaZHuJKyOOWsso75PkkL9F1atH2oDJIHjCHjnR2LI3eKCm2rg6m5W3rKsj+f6NpV
+tZIzWfcXSHGvbg==
+=MeDP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kongscn
+
+==================================================================
