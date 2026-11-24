@@ -3,6 +3,13 @@ payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,apple-relay.apple.com
   - DOMAIN,apple-relay.cloudflare.com
+  - DOMAIN,stun.cloudflare.com
+  - DOMAIN,stun.l.google.com
+  - DOMAIN,stun1.l.google.com
+  - DOMAIN,stun2.l.google.com
+  - DOMAIN,stun3.l.google.com
+  - DOMAIN,stun4.l.google.com
+  - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spacex.com
   - DOMAIN-SUFFIX,terafab.ai
   - DOMAIN-SUFFIX,openrouter.ai
@@ -17,7 +24,6 @@ payload:
   - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
-  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
